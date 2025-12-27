@@ -23,7 +23,7 @@ ESP8266WebServer server(80);  // Create a webserver object that listens for HTTP
 
 unsigned long previousMillis = 0;
 
-String sta_ssid = "Shadow";      // set Wifi networks you want to connect to
+String sta_ssid = "Hotspot";      // set Wifi networks you want to connect to
 String sta_password = "";  // set password for Wifi networks
 
 
